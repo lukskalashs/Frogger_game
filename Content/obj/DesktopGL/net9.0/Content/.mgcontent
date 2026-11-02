@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/../../../../Downloads/CSIP - Assignment 7/a tussock (or a hummock).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/../../../../Downloads/CSIP - Assignment 7/fly.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/../../../../Downloads/CSIP - Assignment 7/Frog_dies.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/../../../../Downloads/CSIP - Assignment 7/Road.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/a tussock (or a hummock).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck1_move_left(red).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck1_move_right(red).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck2)move_left(yellow).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck2)move_right(yellow).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck3_move_left(blue).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck3_move_right(blue).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck4_move_left_marron_yellow_hatchback.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/car-truck4_move_right_marron_yellow_hatchback.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/File.spritefont</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Fly Time Freeze(powerUp).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/fly.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Frog.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Lily pad.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Log Light.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/super jump(PowerUp).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/truck5_left(yellow bus).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/truck5_right(yellow bus).png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Turtle_opposite_of_shrinking_in.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Turtle_shrink_in.png</File>
+    <File>C:/Users/kalas/source/repos/Frogger/Content/Water(River).jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>a tussock (or a hummock).png</File>
+    <File>fly.png</File>
+    <File>Frog_dies.png</File>
+    <File>Road.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
